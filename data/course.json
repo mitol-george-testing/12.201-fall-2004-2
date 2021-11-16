@@ -1,0 +1,33 @@
+{
+  "level": "Undergraduate",
+  "topics": [
+    [
+      "Science",
+      "Earth Science",
+      "Geophysics"
+    ],
+    [
+      "Science",
+      "Earth Science",
+      "Planetary Science"
+    ]
+  ],
+  "instructors": {
+    "content": [
+      "76835d68-259b-ff51-3c23-6cb7db2919d5"
+    ],
+    "website": "ocw-www"
+  },
+  "course_title": "Essentials of Geophysics",
+  "course_description": "This course is designed to be a survey of the various subdisciplines of geophysics (geodesy, gravity, geomagnetism, seismology, and geodynamics) and how they might relate to or be relevant for other planets. No prior background in Earth sciences is assumed, but students should be comfortable with vector calculus, classical mechanics, and potential field theory.\n",
+  "department_numbers": [
+    "12"
+  ],
+  "extra_course_numbers": "12.501",
+  "primary_course_number": "12.201",
+  "learning_resource_types": [
+    "Lecture Notes",
+    "Problem Sets"
+  ],
+  "title": "Course Metadata"
+}
